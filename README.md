@@ -3,7 +3,7 @@
 I use them for [DreamPie](http://www.dreampie.org/) running different Python's versions.
 
 
-Maybe they are primitive but look nice one by one.
+Maybe they are primitive but they look nice next to each other.
 
 ![#1](screenshots/image-1.png?raw=true)   
 
