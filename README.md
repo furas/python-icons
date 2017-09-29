@@ -15,10 +15,7 @@ Maybe they are primitive but look nice one by one.
     - created with Inkscape
     - can be exported to PNG in any size
     - text converted into path (because on my system it looks better)
-    
-## SVG\SVG-text 
-
-    - version with text (not converted into paths)
+    - version with text (not converted into paths) in folder `SVG/SVG-text`
 
 ## PNG
 
