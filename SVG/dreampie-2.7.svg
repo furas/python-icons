@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48.000002"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dreampie-2.7.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.9841772"
+     inkscape:cx="-71.763305"
+     inkscape:cy="-8"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1128"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <path
+       style="fill:#ff8989;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 0,1004.3622 48.000004,0 0,48 -48.000004,0 z"
+       id="rect4136" />
+    <g
+       id="g4178"
+       transform="translate(-0.38452578,-6.5342866e-5)">
+      <g
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text4138">
+        <path
+           d="m 22.275154,1033.9066 4.87793,0 0,5.376 -4.87793,0 0,-5.376 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle"
+           id="path5683" />
+      </g>
+      <g
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text4170">
+        <path
+           d="m 9.8197069,1035.474 9.2138671,0 0,3.8086 -13.8867186,0 0,-3.6914 2.34375,-2.4902 q 4.1748046,-4.4385 5.0683596,-5.4639 1.098633,-1.2598 1.582031,-2.2266 0.483398,-0.9814 0.483398,-1.9336 0,-1.4648 -0.893554,-2.2558 -0.878907,-0.8057 -2.504883,-0.8057 -1.157227,0 -2.607422,0.4688 -1.4355468,0.4541 -3.0029296,1.333 l 0,-4.0284 q 1.5673828,-0.5712 3.0615234,-0.8642 1.5087892,-0.3076 2.8857422,-0.3076 3.47168,0 5.449219,1.6259 1.992187,1.6114 1.992187,4.4092 0,1.2891 -0.439453,2.417 -0.424805,1.1279 -1.479492,2.5049 -0.776367,0.9961 -4.262695,4.4824 -1.889649,1.8897 -3.0029301,3.0176 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle"
+           id="path5686" />
+      </g>
+      <g
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text4174">
+        <path
+           d="m 29.794075,1017.4125 13.828125,0 0,3.0615 -7.412109,18.8086 -4.40918,0 7.119141,-18.0615 -9.125977,0 0,-3.8086 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle"
+           id="path5689" />
+      </g>
+    </g>
+  </g>
+</svg>
