@@ -1,25 +1,36 @@
 # Icons for Python/DreamPie
 
+I use them for [DreamPie](http://www.dreampie.org/) running different Python's versions.
+
+
 Maybe they are primitive but look nice one by one.
 
 ![#1](screenshots/image-1.png?raw=true)   
 
 ## SVG 
 
-    - red 2.7, yellow 3.5, green 3.6, (TODO: blue 3.7)
+![python-2.7.svg](SVG/python-2.7.svg?raw=true)   
+![python-3.5.svg](SVG/python-3.5.svg?raw=true)   
+![python-3.6.svg](SVG/python-3.6.svg?raw=true)   
+![python-3.7.svg](SVG/python-3.7.svg?raw=true)   
+
     - size 48x48 
     - created with Inkscape
     - can be exported to PNG in any size
-    - text converted into paths (because on my system it looks better)
+    - text converted into path (because on my system it looks better)
     
 ## SVG\SVG-text 
 
-    - before conversion text into paths
+    - version with text (not converted into paths)
 
 ## PNG
 
-    - red 2.7, yellow 3.5, green 3.6
+![python-2.7.png](PNG/python-2.7.png?raw=true)   
+![python-3.5.png](PNG/python-3.5.png?raw=true)   
+![python-3.6.png](PNG/python-3.6.png?raw=true)   
+![python-3.7.png](PNG/python-3.7.png?raw=true)   
+
     - size 48x48 
-    - created with GIMP
-    - GIMP file dreampie-all.xcf has all versions as layers
+    - created with GIMP (before I created SVG version)
+    - GIMP file `dreampie-all.xcf` has all versions as layers
     
