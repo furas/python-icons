@@ -33,3 +33,11 @@ I use colors to recognize versions:
 - text converted into path (because on my system it looks better)
 - version with text (not converted into paths) in folder `SVG/SVG-text`
 - on Linux SVG can be be used instead of PNG (it doesn't have to be converted to PNG)
+
+---
+
+### folder-icons
+
+Linux Mint-X folder icons with Python logo.
+
+![#1](screenshots/folder-icons.png?raw=true)   

@@ -1,0 +1,12 @@
+/home/furas/projekty/__grafika__/Python - Art/Mint-X/usr-share-icons/Mint-X-Aqua
+/home/furas/projekty/__grafika__/Python - Art/Mint-X/usr-share-icons/Mint-X-Blue
+/home/furas/projekty/__grafika__/Python - Art/Mint-X/usr-share-icons/Mint-X-Brown
+/home/furas/projekty/__grafika__/Python - Art/Mint-X/usr-share-icons/Mint-X-Dark
+/home/furas/projekty/__grafika__/Python - Art/Mint-X/usr-share-icons/Mint-X-Grey
+/home/furas/projekty/__grafika__/Python - Art/Mint-X/usr-share-icons/Mint-X-Orange
+/home/furas/projekty/__grafika__/Python - Art/Mint-X/usr-share-icons/Mint-X-Pink
+/home/furas/projekty/__grafika__/Python - Art/Mint-X/usr-share-icons/Mint-X-Purple
+/home/furas/projekty/__grafika__/Python - Art/Mint-X/usr-share-icons/Mint-X-Red
+/home/furas/projekty/__grafika__/Python - Art/Mint-X/usr-share-icons/Mint-X-Sand
+/home/furas/projekty/__grafika__/Python - Art/Mint-X/usr-share-icons/Mint-X-Teal
+/home/furas/projekty/__grafika__/Python - Art/Mint-X/usr-share-icons/Mint-X-Yellow
