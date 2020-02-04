@@ -16,7 +16,7 @@ I use colors to recognize versions:
 
 ## PNG
 
-![python-2.7.png](PNG/python-2.7.png?raw=true) ![python-3.5.png](PNG/python-3.5.png?raw=true) ![python-3.6.png](PNG/python-3.6.png?raw=true)  ![python-3.7.png](PNG/python-3.7.png?raw=true)  
+![python-2.7.png](PNG/python-2.7.png?raw=true) ![python-3.5.png](PNG/python-3.5.png?raw=true) ![python-3.6.png](PNG/python-3.6.png?raw=true)  ![python-3.7.png](PNG/python-3.7.png?raw=true) 
 
 - size 48x48 
 - created with [GIMP](https://www.gimp.org/)
@@ -25,7 +25,7 @@ I use colors to recognize versions:
 
 ## SVG 
 
-![python-2.7.svg](SVG/python-2.7.svg) ![python-3.5.svg](SVG/python-3.5.svg) ![python-3.6.svg](SVG/python-3.6.svg) ![python-3.7.svg](SVG/python-3.7.svg)   
+![python-2.7.svg](SVG/python-2.7.svg) ![python-3.5.svg](SVG/python-3.5.svg) ![python-3.6.svg](SVG/python-3.6.svg) ![python-3.7.svg](SVG/python-3.7.svg) 
 
 - size 48x48 
 - created with [Inkscape](https://inkscape.org/)
@@ -38,6 +38,12 @@ I use colors to recognize versions:
 
 ### folder-icons
 
-Linux Mint-X folder icons with Python logo.
+Linux Mint-X folder with Python logo.
 
-![#1](screenshots/folder-icons.png?raw=true)   
+![#1](screenshots/folder-icons.png?raw=true) 
+
+Linux Mint-X icons with Python logo.
+
+![#2](screenshots/python-icons.png?raw=true) 
+
+

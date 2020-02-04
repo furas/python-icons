@@ -14,8 +14,8 @@
    viewBox="0 0 48 48.000002"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="dreampie-3.6-oryginal.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="python-3.6-text.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9841772"
-     inkscape:cx="-71.763305"
-     inkscape:cy="-8"
+     inkscape:zoom="9.3229206"
+     inkscape:cx="48"
+     inkscape:cy="47.999994"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1128"
+     inkscape:window-height="1125"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,52 +54,66 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <rect
-       style="fill:#89ff89;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4136"
-       width="48.000004"
-       height="48.000004"
-       x="0"
-       y="1004.3622" />
+    <g
+       id="g945"
+       transform="translate(1.7919048,-38.367014)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect4136-36"
+         d="m 94.208095,1042.7292 h -48 v -47.99996 h 48 z"
+         style="fill:#ffff80;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="rect4136-3"
+         d="m 94.208095,1090.7292 h -48 v -48 h 48 z"
+         style="fill:#89ff89;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect4136-7"
+         d="M 46.208095,1042.7292 H -1.7919048 V 994.72924 H 46.208095 Z"
+         style="fill:#ff8989;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect4136-6"
+         d="M 46.208095,1090.7292 H -1.7919048 v -48 H 46.208095 Z"
+         style="fill:#85ffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+    </g>
     <g
        id="g4178"
        transform="translate(-0.77271133,-6.5342866e-5)">
       <text
-         sodipodi:linespacing="125%"
          id="text4138"
          y="1039.2826"
          x="24.721443"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle"
            y="1039.2826"
            x="24.721443"
            id="tspan4140"
            sodipodi:role="line">.</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="12.485723"
          y="1039.2826"
-         id="text4170"
-         sodipodi:linespacing="125%"><tspan
+         id="text4170"><tspan
            sodipodi:role="line"
            id="tspan4172"
            x="12.485723"
            y="1039.2826"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle">3</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle">3</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="36.839973"
          y="1039.2826"
-         id="text4174"
-         sodipodi:linespacing="125%"><tspan
+         id="text4174"><tspan
            sodipodi:role="line"
            id="tspan4176"
            x="36.839973"
            y="1039.2826"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle">6</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle">6</tspan></text>
     </g>
   </g>
 </svg>

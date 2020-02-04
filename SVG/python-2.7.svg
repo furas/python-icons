@@ -14,8 +14,8 @@
    viewBox="0 0 48 48.000002"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="dreampie-2.7.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="python-2.7.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.9841772"
-     inkscape:cx="-71.763305"
+     inkscape:cx="-107.27879"
      inkscape:cy="-8"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1128"
+     inkscape:window-height="1125"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,8 +56,9 @@
      transform="translate(0,-1004.3622)">
     <path
        style="fill:#ff8989;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 0,1004.3622 48.000004,0 0,48 -48.000004,0 z"
-       id="rect4136" />
+       d="m 0,1004.3622 h 48.000004 v 48 H 0 Z"
+       id="rect4136"
+       inkscape:connector-curvature="0" />
     <g
        id="g4178"
        transform="translate(-0.38452578,-6.5342866e-5)">
