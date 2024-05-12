@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48"
    height="48"
    viewBox="0 0 48 48.000002"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="python-3.12-text.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="python-3.12-text.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,18 +25,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.3229206"
-     inkscape:cx="48"
-     inkscape:cy="47.999994"
+     inkscape:zoom="4.4375018"
+     inkscape:cx="47.098572"
+     inkscape:cy="0"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1125"
+     inkscape:window-width="1366"
+     inkscape:window-height="679"
      inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -45,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,30 +55,26 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <g
-       id="g945"
-       transform="translate(1.7919048,-38.367014)">
-      <path
-         inkscape:connector-curvature="0"
-         id="rect4136-36"
-         d="m 94.208095,1042.7292 h -48 v -47.99996 h 48 z"
-         style="fill:#ffff80;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="rect4136-3"
-         d="m 94.208095,1090.7292 h -48 v -48 h 48 z"
-         style="fill:#89ff89;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <path
-         id="rect4136-7"
-         d="M 46.208095,1042.7292 H -1.7919048 V 994.72924 H 46.208095 Z"
-         style="fill:#ff8989;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-      <path
-         id="rect4136-6"
-         d="M 46.208095,1090.7292 H -1.7919048 v -48 H 46.208095 Z"
-         style="fill:#85ffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="rect4136-36"
+       d="M 96,1004.3622 H 48 v -47.99997 h 48 z"
+       style="fill:#ffff80;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="rect4136-3"
+       d="M 96,1052.3622 H 48 v -48 h 48 z"
+       style="fill:#89ff89;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4136-7"
+       d="M 48,1004.3622 H 0 v -47.99997 h 48 z"
+       style="fill:#ff8989;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect4136-6"
+       d="M 48,1052.3622 H 0 v -48 h 48 z"
+       style="fill:#85ffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
     <g
        id="g927"
        transform="matrix(0.66866285,0,0,0.66866285,1.9772259,340.73468)"
@@ -86,16 +83,16 @@
          id="text4138"
          y="1039.2825"
          x="23.948732"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49552202px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49552px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:1.49552202px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:1.49552px"
            y="1039.2825"
            x="23.948732"
            id="tspan4140"
            sodipodi:role="line">.</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49552202px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49552px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="11.713011"
          y="1039.2825"
          id="text4170"><tspan
@@ -103,14 +100,14 @@
            id="tspan4172"
            x="11.713011"
            y="1039.2825"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:1.49552202px">3</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:1.49552px">3</tspan></text>
       <text
          id="text919"
          y="1039.2825"
          x="45.090698"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49552202px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:-6px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49552px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:1.49552202px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:1.49552px"
            y="1039.2825"
            x="45.090698"
            id="tspan917"
