@@ -25,7 +25,7 @@ I use colors to recognize versions:
 
 ## SVG 
 
-![python-2.7.svg](SVG/python-2.7.svg) ![python-3.5.svg](SVG/python-3.5.svg) ![python-3.6.svg](SVG/python-3.6.svg) ![python-3.7.svg](SVG/python-3.7.svg) 
+![python-2.7.svg](SVG/python-2.7.svg) ![python-3.5.svg](SVG/python-3.5.svg) ![python-3.6.svg](SVG/python-3.6.svg) ![python-3.7.svg](SVG/python-3.7.svg) ![python-3.8.svg](SVG/python-3.8.svg) ![python-3.9.svg](SVG/python-3.9.svg) ![python-3.10.svg](SVG/python-3.10.svg) ![python-3.11.svg](SVG/python-3.11.svg) ![python-3.12.svg](SVG/python-3.12.svg) 
 
 - size 48x48 
 - created with [Inkscape](https://inkscape.org/)
