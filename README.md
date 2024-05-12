@@ -1,6 +1,9 @@
-# Icons for Python/DreamPie
+# Icons for Python/DreamPie/BPython
 
-I use them for [DreamPie](http://www.dreampie.org/) running different Python's versions.
+I was using them for [DreamPie](http://www.dreampie.org/) to run it with different Python's versions. 
+
+Now I use them for [BPython](https://bpython-interpreter.org/) as icons for command:   
+`python3.10 -m bpython`, `python3.12 -m bpython`
 
 Maybe they are primitive but they look nice next to each other.
 
